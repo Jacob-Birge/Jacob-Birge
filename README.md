@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Jacob-Birge
-- 🎓 I'm currently a graduate student in Computer Science at the University of Kentucky.
-- 🌱 I’m currently working on computer vision problems mainly in the area of geospatial imagry.
-- 📫 I can be reached by email at jacobbirge24@gmail.com
+- 💼 I am an application developer at UPS.
+- 🎓 I received a Masters in Computer Science at the University of Kentucky.
+- 🌱 My graduate work mainly consisted of learnable dimensionality reduction and performing classification on satellite imagry.
+- 🎢 The projects housed here mostly consist of machine learning experiments and game development.
+- 📫 Feel free to reach out by email at jacobbirge24+github@gmail.com
 
 <!---
 Jacob-Birge/Jacob-Birge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
