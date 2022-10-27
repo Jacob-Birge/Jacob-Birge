@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jacob-Birge
 - 💼 I am an application developer at UPS.
 - 🎓 I received a Masters in Computer Science at the University of Kentucky.
-- 🌱 My graduate work mainly consisted of learnable dimensionality reduction and performing classification on satellite imagry.
+- 🌱 My graduate work mainly consisted of learnable dimensionality reduction and satellite imagry classification.
 - 🎢 The projects housed here mostly consist of machine learning experiments and game development.
 - 📫 Feel free to reach out by email at jacobbirge24+github@gmail.com
 
